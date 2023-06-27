@@ -1,0 +1,10 @@
+.error {
+  color: hsl(7, 100%, 77%);
+  font-size: 0.5rem;
+  float: right;
+  margin-top: 5px;
+}
+
+.flex-1 {
+  flex: 1;
+}

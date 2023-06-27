@@ -1,0 +1,28 @@
+.label {
+  font-size: 0.5rem;
+  color: hsl(186, 14%, 43%);
+}
+
+.input {
+  outline: none;
+  border: none;
+  background: hsl(189, 41%, 97%);
+  display: block;
+  width: 100%;
+  font-size: 1rem;
+  text-align: right;
+  color: hsl(183, 100%, 15%);
+  border-radius: 5px;
+}
+
+.error {
+  color: hsl(7, 100%, 77%);
+  font-size: 0.5rem;
+  float: right;
+  margin-top: 10px;
+}
+
+.input-error {
+  outline: 2px solid hsl(7, 100%, 77%);
+  border-radius: 5px;
+}

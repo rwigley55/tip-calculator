@@ -1,0 +1,20 @@
+.button {
+  border: none;
+  outline: none;
+  background: hsl(183, 100%, 15%);
+  color: white;
+  flex: 1 1 30%;
+  /* flex-basis: 30%; */
+  border-radius: 5px;
+  font-size: 1rem;
+  padding: 0.25rem 1rem;
+}
+
+.button:active {
+  background: hsl(185, 41%, 84%);
+}
+
+.button:focus {
+  background: hsl(185, 41%, 84%);
+  color: hsl(183, 100%, 15%);
+}

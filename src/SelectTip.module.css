@@ -1,0 +1,17 @@
+.selecttip {
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  /* background: red; */
+  gap: 10px;
+}
+
+.label {
+  font-size: 0.5rem;
+  color: hsl(186, 14%, 43%);
+}
+
+.margin-bottom {
+  margin-bottom: 1rem;
+}
